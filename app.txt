@@ -5,5 +5,7 @@ this is line2
 this is line 2
 this is line 3
 this is line4
+<<<<<<< HEAD
 >>>>>>> test2
 TOM
+JACK
